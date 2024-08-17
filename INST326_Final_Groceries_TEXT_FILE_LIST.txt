@@ -1,0 +1,9 @@
+eggs 4.00
+bread 5.00
+ham 10.00
+beans 2.00
+lettuce 7.00
+tomato 4.00
+apple 4.00
+banana 3.00
+lemonade 8.50
